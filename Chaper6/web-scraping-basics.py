@@ -41,6 +41,8 @@ for index, element in enumerate(table_rows):
 df = pd.DataFrame(table_data, columns=table_columns)
 print(df.to_string())
 
+#Tada
+
 
 
 
